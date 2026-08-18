@@ -79,7 +79,7 @@ const searchQuery = ref('')
           class="flex h-[50px] w-[50px] items-center justify-center rounded-full bg-[#F5F7FA] transition hover:bg-[#EAF0FF] max-md:hidden"
         >
           <img
-            src="/assets/navbar/setting.svg"
+            src="/assets/navbar/settings.svg"
             alt="Settings"
             class="h-[25px] w-[25px] object-contain"
           />

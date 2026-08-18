@@ -1,9 +1,9 @@
 <script setup>
 import { ref } from 'vue'
 
-import EditProfile from './Settings/EditProfile.vue'
-import Preferences from './Settings/Preferences.vue'
-import Security from './Settings/Security.vue'
+import EditProfile from './settings/EditProfile.vue'
+import Preferences from './settings/Preferences.vue'
+import Security from './settings/Security.vue'
 
 const activeTab = ref('profile')
 
