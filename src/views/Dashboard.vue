@@ -1,5 +1,5 @@
 <script setup>
-import MyCards from '../components/dashboard/Mycards.vue'
+import MyCards from '../components/dashboard/MyCards.vue'
 import RecentTransactions from '../components/dashboard/RecentTransactions.vue'
 import WeeklyActivity from '../components/dashboard/WeeklyActivity.vue'
 import ExpenseStatistics from '../components/dashboard/ExpenseStatistics.vue'
